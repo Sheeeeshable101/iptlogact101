@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272664722239",
+    "project_id": "iptloginact",
+    "storage_bucket": "iptloginact.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272664722239:android:4dad22b72fc3a2a3f1718a",
+        "android_client_info": {
+          "package_name": "com.example.iptlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDF4QHzeyZyFjJQkuLlwxcF7U6PrchWsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">iptlogin</string>
+    <string name="my_account">My Account</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="account_details">Account Details</string>
+    <string name="fetching_user_data">Fetching user data...</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="logged_out_successfully">Logged out successfully.</string>
+    <string name="user_data_unavailable">User data unavailable.</string>
+    <string name="welcome_to_iptlogin">Welcome to IPTLogin</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login_successful">Login successful.</string>
+    <string name="auth_failed">Authentication failed: </string>
+    <string name="registration_successful">Registration successful.</string>
+    <string name="user_info_format">Email: %1$s\nUID: %2$s</string>
+    <string name="auth_failed_with_error">Authentication failed: %1$s</string>
+    <string name="toongs_activity">Toong\'s Activity</string>
+</resources>
